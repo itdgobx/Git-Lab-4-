@@ -1,7 +1,13 @@
 hello one
+<<<<<<< HEAD
 master two
 master three
 1
 2
 3
 master four
+=======
+hello two
+hello three
+hello four
+>>>>>>> 269dae5 (add hello two to four)
